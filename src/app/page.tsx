@@ -7,7 +7,7 @@ import OtherServices from "@/sections/OtherServices";
 import ContactUs from "@/sections/ContactUs";
 import Feedback from "@/sections/Feedback";
 import Reviews from "@/sections/Reviews";
-import SpecialOffer from "@/sections/SpecialOffer";
+
 
 export default function Home() {
     return (
