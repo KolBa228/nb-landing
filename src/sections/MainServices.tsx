@@ -11,12 +11,12 @@ const MainServices = () => {
             image: "/main-services/service1.webp",
             link: "/window",
         },
-        {
-            title: "Commercial Cleaning",
-            description: "Professional window cleaning for any height and complexity. We use modern methods and eco-friendly products to achieve crystal clear windows without streaks or spots.",
-            image: "/main-services/service4.webp",
-            link: "/commercial-window-cleaning",
-        },
+        // {
+        //     title: "Commercial Cleaning",
+        //     description: "Professional window cleaning for any height and complexity. We use modern methods and eco-friendly products to achieve crystal clear windows without streaks or spots.",
+        //     image: "/main-services/service4.webp",
+        //     link: "/commercial-window-cleaning",
+        // },
         {
             title: "Gutter cleaning",
             description: "Thorough cleaning of gutter systems from leaves, debris and blockages. We prevent damage to facades and foundations, protecting your home from moisture and dampness.",

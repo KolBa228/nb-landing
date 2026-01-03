@@ -4,11 +4,18 @@ import Image from "next/image";
 
 const OtherServices = () => {
     const services = [
+        // {
+        //     title: "Solar panel cleaning",
+        //     description: "Professional cleaning of solar panels to maximize efficiency and extend their lifespan. We use safe cleaning methods that do not damage the panel surfaces.",
+        //     image: "/other-services/service4.webp",
+        //     icon: "/other-services/icon4.svg",
+        // },
         {
-            title: "Solar panel cleaning",
-            description: "Professional cleaning of solar panels to maximize efficiency and extend their lifespan. We use safe cleaning methods that do not damage the panel surfaces.",
-            image: "/other-services/service4.webp",
-            icon: "/other-services/icon4.svg",
+            title: "Commercial Cleaning",
+            description: "Professional window cleaning for any height and complexity. We use modern methods and eco-friendly products to achieve crystal clear windows without streaks or spots.",
+            image: "/main-services/service4.webp",
+            icon: "/page-images/service1.svg",
+            link: "/commercial-window-cleaning",
         },
         {
             title: "Cladding cleaning",
